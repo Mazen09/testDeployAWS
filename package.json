@@ -6,7 +6,17 @@
     "jquery": "^1.9.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "joi-browser": "^13.4.0",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.10",
+    "query-string": "^6.1.0",
+    "react-markdown": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-toastify": "^4.1.0"
   },
   "devDependencies": {},
   "scripts": {
